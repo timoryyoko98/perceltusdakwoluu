@@ -1,0 +1,4 @@
+baseURL = "https://easylogopolotoko.vercel.app"
+languageCode = "en-us"
+title = "Logo Easy"
+theme = "tale-hugo-master"
